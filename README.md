@@ -9,7 +9,6 @@
 
 - Know about my experiences [https://drive.google.com/file/d/1MniF6HA1wSJnHZl17Sf5CRCGmOl4CZ0V/view?usp=drivesdk](https://drive.google.com/file/d/1MniF6HA1wSJnHZl17Sf5CRCGmOl4CZ0V/view?usp=drivesdk)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
