@@ -3,7 +3,7 @@
 
 - I’m currently learning **Fullstack Web Development Course, React Js, Node Js, Mongo DB**
 
-- All of my projects are available at [https://github.com/Bhanuka98](https://github.com/Bhanuka98)
+- All of my projects are available at [Bhanuka98](https://github.com/Bhanuka98)
 
 - How to reach me **sachintharanasinghe99@gmail.com**
 
