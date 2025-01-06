@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Sachintha Ranasinghe.</h1>
 <h3 align="center">A passionate Frontend and UI/UX Developer from Sri Lanka</h3>
 
-- I’m currently learning **Fullstack Web Development Course, React Js, Node Js, Mongo DB**
+- I’m a Graduate of **University of Jaffna, Sri Lanka**
 
 - All of my projects are available at [Bhanuka98](https://github.com/Bhanuka98)
 
